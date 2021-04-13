@@ -29,11 +29,12 @@ public class Animacao {
 		}
 		public void passo() {
 			
-			if(passoAtual+5>=strAnimacao.length()) {
-				
+			if(passoAtual+5>=strAnimacao.length()) {		
 				System.out.println("Já acabaram os passos!");
 				return;
 			}
+			
+			
 			char proxPasso = strAnimacao.charAt(passoAtual+5);
 			passoAtual+=1;
 

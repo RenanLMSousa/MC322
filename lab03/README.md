@@ -1,8 +1,8 @@
-## Notebook  sobre uma Lombriga em um aqu·rio
+Ôªø## Notebook  sobre uma Lombriga em um aqu√°rio
 
 [Link Notebook](notebook/lab-lombriga-ra243792.ipynb)
 [Link arquivos .java](src/mc322)
 
-Este projeto apresenta uma abstraÁ„o de uma
-lombriga em um aqu·rio. Obedecendo instruÁıes 
-de animaÁ„o.
+Este projeto apresenta uma abstra√ß√£o de uma
+lombriga em um aqu√°rio. Obedecendo instru√ß√µes 
+de anima√ß√£o.

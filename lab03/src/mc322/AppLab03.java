@@ -15,7 +15,7 @@ public class AppLab03 {
 		anim.apresenta();
 		anim.passo();
 		anim.apresenta();
-		anim.passo();
+		//anim.passo();
 	}
 
 }
